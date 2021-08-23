@@ -1,0 +1,2 @@
+https://github.com/docker-library/official-images.git 3b3324b9ff059a0e72e1114be28f6f196321a4e5
+https://github.com/docker-library/bashbrew.git e7c3ecbffa9f9215c23e91cb943cd86c5b40d6f6
